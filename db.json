@@ -1,14 +1,86 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"data":[
+{
+"title":"name1",
+"items":[
+{
+"id":101,
+"name":"name1",
+"remaining":100,
+"price":150
+},
+{
+"id":102,
+"name":"name2",
+"remaining":50,
+"price":150
+},
+{
+"id":103,
+"name":"name3",
+"remaining":60,
+"price":250
+},
+{
+"id":104,
+"name":"name4",
+"remaining":10,
+"price":350
+},
+{
+"id":105,
+"name":"name5",
+"remaining":100,
+"price":450
+},
+{
+"id":106,
+"name":"name6",
+"remaining":100,
+"price":550
+}
+]
+},
+{
+"title":"name2",
+"items":[
+{
+"id":201,
+"name":"name21",
+"remaining":100,
+"price":150
+},
+{
+"id":202,
+"name":"name22",
+"remaining":50,
+"price":150
+},
+{
+"id":203,
+"name":"name23",
+"remaining":60,
+"price":250
+},
+{
+"id":204,
+"name":"name24",
+"remaining":10,
+"price":350
+},
+{
+"id":205,
+"name":"name25",
+"remaining":100,
+"price":450
+},
+{
+"id":206,
+"name":"name26",
+"remaining":100,
+"price":550
+}
+]
+}
+]
 }
