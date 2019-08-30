@@ -111,8 +111,7 @@
             }
           ],
           "remaining": 10,
-          "price": 350,
-          "limit": 5
+          "price": 350
         },
         {
           "id": 105,
@@ -151,9 +150,9 @@
           "name": "100 Pipers",
           "image": "https://www.dubaidutyfree.com/ccstore/v1/images/?source=/file/v6422721598565343950/products/110360559.0.jpg&height=300&width=300",
           "data": [{
-            "id": 1011,
+            "id": 2011,
             "name": "Can 500ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "image": "https://www.dubaidutyfree.com/ccstore/v1/images/?source=/file/v6422721598565343950/products/110360559.0.jpg&height=300&width=300",
             "remaining": 100,
             "price": 150,
             "productparentname": "100 Pipers",
@@ -161,17 +160,16 @@
             "limit": 5
           }],
           "remaining": 100,
-          "price": 150,
-          "limit": 5
+          "price": 150
         },
         {
           "id": 202,
           "name": "Ballantines",
           "image": "https://manila-wine.com/media/catalog/product/cache/1/image/700x700/9df78eab33525d08d6e5fb8d27136e95/b/a/ballantines-finest_1.jpg",
           "data": [{
-            "id": 1011,
+            "id": 2021,
             "name": "Can 500ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "image": "https://manila-wine.com/media/catalog/product/cache/1/image/700x700/9df78eab33525d08d6e5fb8d27136e95/b/a/ballantines-finest_1.jpg",
             "remaining": 100,
             "price": 150,
             "productparentname": "Ballantines",
@@ -179,17 +177,16 @@
             "limit": 5
           }],
           "remaining": 50,
-          "price": 150,
-          "limit": 5
+          "price": 150
         },
         {
           "id": 203,
           "name": "Black and White",
           "image": "https://ke.jumia.is/VIuIc8KqMhu2CKWeqUk9YqbxhnU=/fit-in/500x500/filters:fill(white):sharpen(1,0,false):quality(100)/product/33/08349/1.jpg?6483",
           "data": [{
-            "id": 1011,
+            "id": 2031,
             "name": "Can 500ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "image": "https://ke.jumia.is/VIuIc8KqMhu2CKWeqUk9YqbxhnU=/fit-in/500x500/filters:fill(white):sharpen(1,0,false):quality(100)/product/33/08349/1.jpg?6483",
             "remaining": 100,
             "price": 150,
             "productparentname": "Black and White",
@@ -197,17 +194,16 @@
             "limit": 5
           }],
           "remaining": 60,
-          "price": 250,
-          "limit": 5
+          "price": 250
         },
         {
           "id": 204,
           "name": "Chivas",
           "image": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h99/ha8/11698283085854.png",
           "data": [{
-            "id": 1011,
+            "id": 2041,
             "name": "Can 500ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "image": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h99/ha8/11698283085854.png",
             "remaining": 100,
             "price": 150,
             "productparentname": "Chivas",
@@ -215,17 +211,16 @@
             "limit": 5
           }],
           "remaining": 10,
-          "price": 350,
-          "limit": 5
+          "price": 350
         },
         {
           "id": 205,
           "name": "JS Black Label",
           "image": "https://cdn.shopify.com/s/files/1/0069/8141/9069/products/jw-black.jpg?v=1553030208",
           "data": [{
-            "id": 1011,
+            "id": 2051,
             "name": "Can 500ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "image": "https://cdn.shopify.com/s/files/1/0069/8141/9069/products/jw-black.jpg?v=1553030208",
             "remaining": 100,
             "price": 150,
             "productparentname": "JS Black Label",
@@ -233,17 +228,16 @@
             "limit": 5
           }],
           "remaining": 100,
-          "price": 450,
-          "limit": 5
+          "price": 450
         },
         {
           "id": 206,
           "name": "JS Red Label",
           "image": "https://www.berevita.com/pub/media/catalog/product/cache/image/1000x1320/e9c3970ab036de70892d86c6d221abfe/j/o/johnnie_walker_red_label_1l.jpg",
           "data": [{
-            "id": 1011,
+            "id": 2061,
             "name": "Can 500ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "image": "https://www.berevita.com/pub/media/catalog/product/cache/image/1000x1320/e9c3970ab036de70892d86c6d221abfe/j/o/johnnie_walker_red_label_1l.jpg",
             "remaining": 100,
             "price": 150,
             "productparentname": "JS Red Label",
@@ -251,8 +245,7 @@
             "limit": 5
           }],
           "remaining": 100,
-          "price": 450,
-          "limit": 5
+          "price": 450
         }
       ]
     },
@@ -262,25 +255,52 @@
           "id": 301,
           "name": "Jack Daniels",
           "image": "https://products3.imgix.drizly.com/ci-jack-daniels-old-no-7-92707d5e737cf4ac.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+          "data": [{
+            "id": 3011,
+            "name": "Can 500ml",
+            "image": "https://products3.imgix.drizly.com/ci-jack-daniels-old-no-7-92707d5e737cf4ac.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "Jack Daniels",
+            "productparentcategory": "American Irish Whisky",
+            "limit": 5
+          }],
           "remaining": 100,
-          "price": 150,
-          "limit": 5
+          "price": 150
         },
         {
           "id": 302,
           "name": "Jameson",
           "image": "https://dydza6t6xitx6.cloudfront.net/ci-jameson-irish-whiskey-c31f346b1bd3ac77.png",
+          "data": [{
+            "id": 3021,
+            "name": "Can 500ml",
+            "image": "https://products3.imgix.drizly.com/ci-jack-daniels-old-no-7-92707d5e737cf4ac.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "Jameson",
+            "productparentcategory": "American Irish Whisky",
+            "limit": 5
+          }],
           "remaining": 50,
-          "price": 150,
-          "limit": 5
+          "price": 150
         },
         {
           "id": 303,
           "name": "Jim Beam",
           "image": "https://dydza6t6xitx6.cloudfront.net/ci-jim-beam-bourbon-whiskey-28f7c73c8e0e8223.png",
+          "data": [{
+            "id": 3031,
+            "name": "Can 500ml",
+            "image": "https://dydza6t6xitx6.cloudfront.net/ci-jim-beam-bourbon-whiskey-28f7c73c8e0e8223.png",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "Jameson",
+            "productparentcategory": "American Irish Whisky",
+            "limit": 5
+          }],
           "remaining": 60,
-          "price": 250,
-          "limit": 5
+          "price": 250
         }
       ]
     },
@@ -290,9 +310,18 @@
         "id": 401,
         "name": "Breezer",
         "image": "https://manila-wine.com/media/catalog/product/cache/1/image/700x700/9df78eab33525d08d6e5fb8d27136e95/b/a/bacardi-breezer-cranberry.jpg",
+        "data": [{
+          "id": 4011,
+          "name": "Can 500ml",
+          "image": "https://manila-wine.com/media/catalog/product/cache/1/image/700x700/9df78eab33525d08d6e5fb8d27136e95/b/a/bacardi-breezer-cranberry.jpg",
+          "remaining": 100,
+          "price": 150,
+          "productparentname": "Jameson",
+          "productparentcategory": "American Irish Whisky",
+          "limit": 5
+        }],
         "remaining": 100,
-        "price": 150,
-        "limit": 5
+        "price": 150
       }]
     }
   ]
