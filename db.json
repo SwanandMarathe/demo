@@ -6,20 +6,26 @@
           "name": "Heineken",
           "image": "https://digitalcontent.api.tesco.com/v1/media/ghs/snapshotimagehandler_867087243/c376d39097bef8e22fd8e8c7062c11a1e13c05f163ae5837a186bdeb336ea247/08712000022662/snapshotimagehandler_867087243.jpeg?h=540&w=540",
           "data": [{
-            "id": 1011,
-            "name": "Can 500ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
-            "remaining": 100,
-            "price": 150,
-            "limit": 5
-          }, {
-            "id": 1012,
-            "name": "Pint 300ml",
-            "image": "https://www.beverlyhillsliquorandwine.com/media/catalog/product/cache/1/image/650x650/29783ce2d3850b4804346f1a1e9bc0c9/l/a/large.jpg",
-            "remaining": 100,
-            "price": 110,
-            "limit": 5
-          }],
+              "id": 1011,
+              "name": "Can 500ml",
+              "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+              "remaining": 100,
+              "price": 150,
+              "productparentname": "Heineken",
+              "productparentcategory": "Beer",
+              "limit": 5
+            },
+            {
+              "id": 1012,
+              "name": "Pint 300ml",
+              "image": "https://www.beverlyhillsliquorandwine.com/media/catalog/product/cache/1/image/650x650/29783ce2d3850b4804346f1a1e9bc0c9/l/a/large.jpg",
+              "remaining": 100,
+              "price": 110,
+              "productparentname": "Heineken",
+              "productparentcategory": "Beer",
+              "limit": 5
+            }
+          ],
           "remaining": 100,
           "price": 150
         },
@@ -28,20 +34,26 @@
           "name": "Corona",
           "image": "https://cdn2.bigcommerce.com/server5500/tpbc2s65/products/5970/images/7786/corona__09536.1479315142.1280.1280.jpg?c=2",
           "data": [{
-            "id": 1021,
-            "name": "Can 500ml",
-            "image": "https://cdn2.bigcommerce.com/server5500/tpbc2s65/products/6968/images/9979/corona-extra-12oz-can__51155.1529588697.380.500.jpg?c=2",
-            "remaining": 100,
-            "price": 150,
-            "limit": 5
-          }, {
-            "id": 1022,
-            "name": "Pint 300ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002736_corona-beer-pint-24-x-355ml_600.jpeg",
-            "remaining": 100,
-            "price": 110,
-            "limit": 5
-          }],
+              "id": 1021,
+              "name": "Can 500ml",
+              "image": "https://cdn2.bigcommerce.com/server5500/tpbc2s65/products/6968/images/9979/corona-extra-12oz-can__51155.1529588697.380.500.jpg?c=2",
+              "remaining": 100,
+              "price": 150,
+              "productparentname": "Corona",
+              "productparentcategory": "Beer",
+              "limit": 5
+            },
+            {
+              "id": 1022,
+              "name": "Pint 300ml",
+              "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002736_corona-beer-pint-24-x-355ml_600.jpeg",
+              "remaining": 100,
+              "price": 110,
+              "productparentname": "Corona",
+              "productparentcategory": "Beer",
+              "limit": 5
+            }
+          ],
           "remaining": 50,
           "price": 150
         },
@@ -50,20 +62,26 @@
           "name": "Bira White",
           "image": "http://liquorsky.com/wp-content/uploads/2015/05/Bira-91-White.png",
           "data": [{
-            "id": 1031,
-            "name": "Can 500ml",
-            "image": "https://cdn.shopify.com/s/files/1/0058/8854/0731/products/14_250x250@2x.png?v=1540494459",
-            "remaining": 100,
-            "price": 150,
-            "limit": 5
-          }, {
-            "id": 1032,
-            "name": "Pint 300ml",
-            "image": "https://products3.imgix.drizly.com/ci-bira91-white-ale-a3d8b75ad7b71b8d.png?auto=format%2Ccompress&fm=jpeg&q=20",
-            "remaining": 100,
-            "price": 110,
-            "limit": 5
-          }],
+              "id": 1031,
+              "name": "Can 500ml",
+              "image": "https://cdn.shopify.com/s/files/1/0058/8854/0731/products/14_250x250@2x.png?v=1540494459",
+              "remaining": 100,
+              "price": 150,
+              "productparentname": "Bira White",
+              "productparentcategory": "Beer",
+              "limit": 5
+            },
+            {
+              "id": 1032,
+              "name": "Pint 300ml",
+              "image": "https://products3.imgix.drizly.com/ci-bira91-white-ale-a3d8b75ad7b71b8d.png?auto=format%2Ccompress&fm=jpeg&q=20",
+              "remaining": 100,
+              "price": 110,
+              "productparentname": "Bira White",
+              "productparentcategory": "Beer",
+              "limit": 5
+            }
+          ],
           "remaining": 60,
           "price": 250
         },
@@ -72,19 +90,26 @@
           "name": "Budweiser",
           "image": "https://dydza6t6xitx6.cloudfront.net/ci-budweiser-9cda9582631c8c77.jpeg",
           "data": [{
-            "id": 1041,
-            "name": "Can 500ml",
-            "image": "https://specsonline.com/wp-content/uploads/2018/11/001820000018.jpg",
-            "remaining": 100,
-            "price": 150,
-            "limit": 5
-          }, {
-            "id": 1042,
-            "name": "Pint 300ml",
-            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002582_budweiser-pint-24-x-355ml_600.jpeg",
-            "remaining": 100,
-            "price": 110
-          }],
+              "id": 1041,
+              "name": "Can 500ml",
+              "image": "https://specsonline.com/wp-content/uploads/2018/11/001820000018.jpg",
+              "remaining": 100,
+              "price": 150,
+              "productparentname": "Budweiser",
+              "productparentcategory": "Beer",
+              "limit": 5
+            },
+            {
+              "id": 1042,
+              "name": "Pint 300ml",
+              "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002582_budweiser-pint-24-x-355ml_600.jpeg",
+              "remaining": 100,
+              "price": 110,
+              "productparentname": "Budweiser",
+              "productparentcategory": "Beer",
+              "limit": 5
+            }
+          ],
           "remaining": 10,
           "price": 350,
           "limit": 5
@@ -94,20 +119,26 @@
           "name": "Kingfisher Ultra",
           "image": "http://anuragwines.com/wp-content/uploads/2018/10/Kingfisher-Ultra-Lager-Beer.jpg",
           "data": [{
-            "id": 1051,
-            "name": "Can 500ml",
-            "image": "http://dwineshop.com/wp-content/uploads/2016/11/8901020143321-1.jpg",
-            "remaining": 100,
-            "price": 150,
-            "limit": 5
-          }, {
-            "id": 1052,
-            "name": "Pint 300ml",
-            "image": "http://dwineshop.com/wp-content/uploads/2016/11/KINGFISHER-ULTRA-PINT.jpg",
-            "remaining": 100,
-            "price": 110,
-            "limit": 5
-          }],
+              "id": 1051,
+              "name": "Can 500ml",
+              "image": "http://dwineshop.com/wp-content/uploads/2016/11/8901020143321-1.jpg",
+              "remaining": 100,
+              "price": 150,
+              "productparentname": "Kingfisher Ultra",
+              "productparentcategory": "Beer",
+              "limit": 5
+            },
+            {
+              "id": 1052,
+              "name": "Pint 300ml",
+              "image": "http://dwineshop.com/wp-content/uploads/2016/11/KINGFISHER-ULTRA-PINT.jpg",
+              "remaining": 100,
+              "price": 110,
+              "productparentname": "Kingfisher Ultra",
+              "productparentcategory": "Beer",
+              "limit": 5
+            }
+          ],
           "remaining": 100,
           "price": 450
         }
@@ -119,6 +150,16 @@
           "id": 201,
           "name": "100 Pipers",
           "image": "https://www.dubaidutyfree.com/ccstore/v1/images/?source=/file/v6422721598565343950/products/110360559.0.jpg&height=300&width=300",
+          "data": [{
+            "id": 1011,
+            "name": "Can 500ml",
+            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "100 Pipers",
+            "productparentcategory": "Scotch Whisky",
+            "limit": 5
+          }],
           "remaining": 100,
           "price": 150,
           "limit": 5
@@ -127,6 +168,16 @@
           "id": 202,
           "name": "Ballantines",
           "image": "https://manila-wine.com/media/catalog/product/cache/1/image/700x700/9df78eab33525d08d6e5fb8d27136e95/b/a/ballantines-finest_1.jpg",
+          "data": [{
+            "id": 1011,
+            "name": "Can 500ml",
+            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "Ballantines",
+            "productparentcategory": "Scotch Whisky",
+            "limit": 5
+          }],
           "remaining": 50,
           "price": 150,
           "limit": 5
@@ -135,6 +186,16 @@
           "id": 203,
           "name": "Black and White",
           "image": "https://ke.jumia.is/VIuIc8KqMhu2CKWeqUk9YqbxhnU=/fit-in/500x500/filters:fill(white):sharpen(1,0,false):quality(100)/product/33/08349/1.jpg?6483",
+          "data": [{
+            "id": 1011,
+            "name": "Can 500ml",
+            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "Black and White",
+            "productparentcategory": "Scotch Whisky",
+            "limit": 5
+          }],
           "remaining": 60,
           "price": 250,
           "limit": 5
@@ -143,6 +204,16 @@
           "id": 204,
           "name": "Chivas",
           "image": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h99/ha8/11698283085854.png",
+          "data": [{
+            "id": 1011,
+            "name": "Can 500ml",
+            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "Chivas",
+            "productparentcategory": "Scotch Whisky",
+            "limit": 5
+          }],
           "remaining": 10,
           "price": 350,
           "limit": 5
@@ -151,6 +222,16 @@
           "id": 205,
           "name": "JS Black Label",
           "image": "https://cdn.shopify.com/s/files/1/0069/8141/9069/products/jw-black.jpg?v=1553030208",
+          "data": [{
+            "id": 1011,
+            "name": "Can 500ml",
+            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "JS Black Label",
+            "productparentcategory": "Scotch Whisky",
+            "limit": 5
+          }],
           "remaining": 100,
           "price": 450,
           "limit": 5
@@ -159,6 +240,16 @@
           "id": 206,
           "name": "JS Red Label",
           "image": "https://www.berevita.com/pub/media/catalog/product/cache/image/1000x1320/e9c3970ab036de70892d86c6d221abfe/j/o/johnnie_walker_red_label_1l.jpg",
+          "data": [{
+            "id": 1011,
+            "name": "Can 500ml",
+            "image": "https://www.cellarbration.com.sg/content/images/thumbs/0002811_heineken-beer-can-24-x-330ml_600.jpeg",
+            "remaining": 100,
+            "price": 150,
+            "productparentname": "JS Red Label",
+            "productparentcategory": "Scotch Whisky",
+            "limit": 5
+          }],
           "remaining": 100,
           "price": 450,
           "limit": 5
