@@ -1,0 +1,2682 @@
+[
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "India (IN)",
+    "name": "AIR North Eastern Service 100.1 FM (Dibrugarh)",
+    "city": "Dibrugarh",
+    "url": "http://51.15.208.163:8081/radio/northeastservice/icecast.audio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "India (IN)",
+    "name": "Lokoratnagarbhaa (Dibrugarh)",
+    "city": "Dibrugarh",
+    "url": "http://85.25.185.202:8118/stream?1568101614244.aac="
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "India (IN)",
+    "name": "Radio Wow (Silchar)",
+    "city": "Silchar",
+    "url": "http://node-21.zeno.fm/d22wrdbst5quv?rj-token=AAABbaBbJjkoIN0vjxnMfwagAkq05AXZHdOe8zBqwaH7U-XBBHddkg&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "India (IN)",
+    "name": "90.4 Jnan Taranga FM (Guwahati)",
+    "city": "Guwahati",
+    "url": "http://188.165.187.84:8059/live"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "India (IN)",
+    "name": "Balurghat FM (Balurghat)",
+    "city": "Balurghat",
+    "url": "https://prositecrafter.design/radio/8000/radio.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Siliguri Beats (Siliguri)",
+    "city": "Siliguri",
+    "url": "https://listen.radioking.com/radio/1743/stream/125"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Aamar FM 106.2 (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://178.21.16.120:8012/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AIR — Gold FM 100.2 (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://51.15.208.163:8081/radio/fmgold/icecast.audio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Chirantanee | BongOnet (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://radio.bongonet.net:8036/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Folk Nama | BongOnet (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://radio.bongonet.net:8004/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Go Yesteryears | BongOnet (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://radio.bongonet.net:8016/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Johar FM 100 (Kolkata)",
+    "city": "Kolkata",
+    "url": "https://str2b.openstream.co/1093?aw_0_1st.stationid=3920&aw_0_1st.publisherId=1117&aw_0_1st.serverId=str2b"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Bangla Rock Kolkata (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://188.166.176.244:8020/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio BongOnet (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://radio.bongonet.net:8000/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Hindi International (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://radio.bongonet.net:8012/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sharanam | BongOnet (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://radio.bongonet.net:8000/radiobongonet"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Robichhaya | BongOnet (Kolkata)",
+    "city": "Kolkata",
+    "url": "http://radio.bongonet.net:8032/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Salesian 90.8 FM (Darjeeling)",
+    "city": "Darjeeling",
+    "url": "https://00e9e64baca19865c1064d06834b0ddd1883f1f6d391849369-apidata.googleusercontent.com/download/drive/v3/files/1X0hv398XUEbu7JaHy7y4U9M2ucJ0RJZU?qk=AD5uMEud4A91MU2gryKS1MLWjh_2wDP3tmgzeHpj96QhpiQi7QlUqMudDSWepyYRYrLlYixIBCOR7WH6MsorNt9ZXN8zJEY0JkkVMvQ9gu5Yts2jPu3kwWF6JhP0C0mrIHtZGGzDgNlmLWmH3BkEAaOBFxzKHol01BsdVryQUAU84oeD9zbS2ROA-LL7d00pe6FCcjhFSaP4kE2L1VzvEPfsGbcwq5F0j0LsVNV9vKDPZUjKXhxhm-ewDMmNFYf5M5Pu4hfrpqW89bekJtCwB5WBVUxMn5PYAjCh80N7xamCN9C0bIkDBoPT9c6-AacFLjnYxox7i-ZkOxydLhciMIXXi9nas1l54cBZ3heqNickY9fnwu5FHkHlq4QwWRfasZCLjf2Crc0gCMPMMCmVAwx8wBF6hIWu2KzME1b6VQo7XgTShu3lHA8vA0gYmfOBkM6WtUEHaLGZoC61CLhv9CY8k3qmy7I4UUt1A21D8xaP8OPDeN5GLFN2hOPQgqTO2saJpvHGw8J0Q9w5C0KxQuJe_N7ANxwugLv72Pp_oVgYZqg_5w1f9-XFQZweDkW03Rc5c8t-UmLUmre0MNMumL6yVTsrLHIUSYi54oD7FF23PxR5M4cmDsHUc7Qb7DQD88mk7GcS776Y5l1TYShAMNJs91EVoh9uGQqSMe819SMos448Hp1AshX-lHyJEK3zkfWd6VbnSZw5DLng2nFYRqXORIRWwj81TJHHMq0qWJovxY-wDOriJovM-LgW4e3IbBHXD9VKHhXrqMpxSIN78TxycevIXuhWKXiRHEmJVUZFg7PtseXAke5Y84zgpXGRt6hnXwzlhWW8241M9wD0WXqb4SMmu4DNv5kL54z432iGFxW-SEd_DwEHj5n3Z8I4SHmXknGIKJDqUI5UYFfn70hnSemkzzChBSrucxkPJ5sY5MvUWq6SiFYfRzIQgaNfqKrSOrOrlDtOhdDDWTOqFogBF9GhegagIQ"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "radioBollyFM (Tamluk)",
+    "city": "Tamluk",
+    "url": "http://stream.radiobollyfm.in:8201/hd"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Milan FM 90.4 (Jhargram)",
+    "city": "Jhargram",
+    "url": "http://node-11.zeno.fm/x934ttpx72quv?rj-token=AAABbaBbHngg1AZf3a5KXP3RZU7JgneiH-l_UNMypyrkX9vRfXQgfg&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Vrishti (Bhagalpur)",
+    "city": "Bhagalpur",
+    "url": "http://vrishti.riggrodigital.com:8078/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sai (Anantapur)",
+    "city": "Anantapur",
+    "url": "http://stream.radiosai.org:8008/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "MapRadio (Jamshedpur)",
+    "city": "Jamshedpur",
+    "url": "http://procyon.shoutca.st:8555/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Red 93.5 FM (Jamshedpur)",
+    "city": "Jamshedpur",
+    "url": "http://14013.live.streamtheworld.com/CKYRFM_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Mithila (Darbhanga)",
+    "city": "Darbhanga",
+    "url": "http://mithila.out.airtime.pro:8000/mithila_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AmaRadio (Bhubaneswar)",
+    "city": "Bhubaneswar",
+    "url": "http://192.240.102.3:8922/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Bhubaneswar (Bhubaneswar)",
+    "city": "Bhubaneswar",
+    "url": "http://104.243.42.94:8574/rabh8989uba"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Snehi FM 90.4 (Siwan)",
+    "city": "Siwan",
+    "url": "http://streamasiacdn.atc-labs.com/radiosnehi.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Spice FM (Vizianagaram)",
+    "city": "Vizianagaram",
+    "url": "http://fmout.spicefm.in:8000/spice_b"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Jesus Coming Soon Radio (Andra)",
+    "city": "Andra",
+    "url": "http://37.187.90.121:3596/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Red FM 93.5 (Visakhapatnam)",
+    "city": "Visakhapatnam",
+    "url": "http://14013.live.streamtheworld.com/CKYRFM_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Ala FM 90.8 (Kakinada)",
+    "city": "Kakinada",
+    "url": "https://mahi.radioca.st/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Gyansthali Radio Gonda (Gonda)",
+    "city": "Gonda",
+    "url": "http://streamasiacdn.atc-labs.com/gyansthali.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "KL Radio (Vaddeswaram)",
+    "city": "Vaddeswaram",
+    "url": "https://radio.younify.com/radio/8020/radio.mp3?1569318463="
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AP9FM (Guntur)",
+    "city": "Guntur",
+    "url": "http://s2.voscast.com:10704/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Chennai Christian Radio (Chennai)",
+    "city": "Chennai",
+    "url": "http://5.10.69.105/stream2?.mp3="
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Christian FM (Chennai)",
+    "city": "Chennai",
+    "url": "http://37.187.90.121:4002/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Elurchi Radio (Chennai)",
+    "city": "Chennai",
+    "url": "http://192.240.97.69:9201/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Ilayaraja Radio (Chennai)",
+    "city": "Chennai",
+    "url": "http://212.83.138.48:8324/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Inbam FM (Chennai)",
+    "city": "Chennai",
+    "url": "http://stream.radio.co/sf55ced545/listen"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "KJ Yesudas Radio (Chennai)",
+    "city": "Chennai",
+    "url": "http://212.83.138.48:8251/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Madras Radio (Chennai)",
+    "city": "Chennai",
+    "url": "http://node-18.zeno.fm/h0k9ckth1rquv?rj-token=AAABbaBbKz9rPtCUGF5L4Nq3cGUXrjofvboqPB6nKHfMNc38MAZH5g&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Malayalam Christian Radio (Chennai)",
+    "city": "Chennai",
+    "url": "http://37.187.90.121:3604/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Moses FM (Chennai)",
+    "city": "Chennai",
+    "url": "http://159.65.149.168:8000/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio 88 (Chennai)",
+    "city": "Chennai",
+    "url": "http://node-08.zeno.fm/qk5gr16529duv?rj-token=AAABbaBbKzWeUe6SmsxOhLJPhhubzk7WOYewrO_OeBl5Af4_KPyyVQ&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Beat (Chennai)",
+    "city": "Chennai",
+    "url": "http://str2b.openstream.co/673?aw_0_1st.stationid=3372&aw_0_1st.publisherId=697&aw_0_1st.serverId=str2b"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Beat Extra (Chennai)",
+    "city": "Chennai",
+    "url": "http://str2b.openstream.co/678?aw_0_1st.stationid=4172&aw_0_1st.publisherId=702&aw_0_1st.serverId=str2b"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Tamil (Chennai)",
+    "city": "Chennai",
+    "url": "http://prclive1.listenon.in:9948/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Tamil Christian Radio (Chennai)",
+    "city": "Chennai",
+    "url": "http://37.187.90.121:3694/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Tamil Panpalai (Chennai)",
+    "city": "Chennai",
+    "url": "http://equinox.shoutca.st:9950/stream128"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Thiruneriya Tamilosai (Chennai)",
+    "city": "Chennai",
+    "url": "https://14553.live.streamtheworld.com/SP_R2923580_SC?1566805864537="
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Vaanmalar FM (Chennai)",
+    "city": "Chennai",
+    "url": "http://66.55.145.43:7364/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Vividh Bharati (Chennai)",
+    "city": "Chennai",
+    "url": "http://51.15.208.163:8081/radio/vividhbharati/icecast.audio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Vizhi FM (Chennai)",
+    "city": "Chennai",
+    "url": "http://159.65.149.168:8008/stream?1569567954299.mp3="
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Voice of Chennai (Chennai)",
+    "city": "Chennai",
+    "url": "http://149.56.234.136:9928/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Divyavani (Puducherry)",
+    "city": "Puducherry",
+    "url": "http://epsilon.shoutca.st:8070/autodj"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Holy Cross Radio (Puducherry)",
+    "city": "Puducherry",
+    "url": "http://18193.live.streamtheworld.com/SAM10AAC097.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=b0da747b-1b7c-4614-cea4-47a833d06687"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Cuddalore Thedal FM (Cuddalore)",
+    "city": "Cuddalore",
+    "url": "http://dione.shoutca.st:8940/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Kancheepuram Thedal FM (Kanchipuram)",
+    "city": "Kanchipuram",
+    "url": "http://dione.shoutca.st:8948/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sweety FM (Arakkonam)",
+    "city": "Arakkonam",
+    "url": "http://66.55.145.43:7329/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Amudham FM (Thiruvarur)",
+    "city": "Thiruvarur",
+    "url": "http://cassini.shoutca.st:8582/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "The Leader FM (Jayamkondan)",
+    "city": "Jayamkondan",
+    "url": "https://streamer.radio.co/s470d15073/low"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "JC Hindi Broadcast (Nagpur)",
+    "city": "Nagpur",
+    "url": "http://s3.free-shoutcast.com:18396/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Saggo FM (Tiruvannamalai)",
+    "city": "Tiruvannamalai",
+    "url": "http://216.244.78.180:1313/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Thiruvannamalai Thedal FM (Tiruvannamalai)",
+    "city": "Tiruvannamalai",
+    "url": "http://dione.shoutca.st:8251/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Voice Of Arunachala (Tiruvannamalai)",
+    "city": "Tiruvannamalai",
+    "url": "http://78.129.159.25:8121/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Jai Bhim (Hinganghat)",
+    "city": "Hinganghat",
+    "url": "http://85.93.91.10:8144/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Mr. Che Tamil Radio (Tiruchirappalli)",
+    "city": "Tiruchirappalli",
+    "url": "https://streamer.radio.co/s5fb71259c/listen"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Banjaraa Radio (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://s7.voscast.com:9032/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Josh FM (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://node-07.zeno.fm/cm1fkgbv1ceuv.mp3?rj-token=AAABbaBcV_0smVlfwlXX4nINuE5fMafdxldXSvvu5VydQMv4jqGXwg&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Nee Swaram (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://85.25.185.202:8035/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Nuke Radio - Telugu (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://live.nukeradio.com:8000/stream3;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Nuke Radio - Devotional (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://5.135.188.92:8008/sid=3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Nuke Radio - Hindi Old Hits (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://5.135.188.92:8016/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Nuke Radio - Nuke Hindi (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://5.135.188.92:8004/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Nuke Radio - Telugu Old Hits (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://5.135.188.92:8012/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Bhakti (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://prclive1.listenon.in:8888/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Metal (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://prclive1.listenon.in:8820/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Telugu Christian Radio (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://37.187.90.121:3682/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Telugu NRI Radio (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://192.240.102.133:12203/;stream.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Teluguone Radio - IST (Hyderabad)",
+    "city": "Hyderabad",
+    "url": "http://173.203.133.187:9700/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Roja FM (Dharmapuri)",
+    "city": "Dharmapuri",
+    "url": "http://node-23.zeno.fm/a73wf2hc1eruv.aac?rj-token=AAABbaBcSR7fx1E5mlLsJbV7GYG37SeyfFCSy1FwapbEmZvbtKDxFg&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Tamilisai FM (Dharmapuri)",
+    "city": "Dharmapuri",
+    "url": "http://s2.free-shoutcast.com:18244/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Dharmapuri Thedal FM (Dharmapuri)",
+    "city": "Dharmapuri",
+    "url": "http://dione.shoutca.st:8944/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "MadhaFM (Madurai)",
+    "city": "Madurai",
+    "url": "http://madhafm.out.airtime.pro:8000/madhafm_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "RadioMadurai (Madurai)",
+    "city": "Madurai",
+    "url": "http://192.95.39.65:5328/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Karur FM - Tamil (Karur)",
+    "city": "Karur",
+    "url": "http://janus.shoutca.st:8700/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Karur Thedal FM (Karur)",
+    "city": "Karur",
+    "url": "http://nebula.shoutca.st:8717/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Paramankurichi (Paramankurichi)",
+    "city": "Paramankurichi",
+    "url": "https://vpmurugun.radioca.st/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Healer Radio (Sawyerpuram)",
+    "city": "Sawyerpuram",
+    "url": "http://192.240.102.198:14132/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "JehovahRapha FM (Sawyerpuram)",
+    "city": "Sawyerpuram",
+    "url": "http://perseus.shoutca.st:8473/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Kovilpatti Thedal FM (Kovilpatti)",
+    "city": "Kovilpatti",
+    "url": "http://dione.shoutca.st:8936/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sanathana Vani (Uttara Kannada)",
+    "city": "Uttara Kannada",
+    "url": "http://eu6.fastcast4u.com:5010/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhagavan FM (Hosur)",
+    "city": "Hosur",
+    "url": "http://dione.shoutca.st:8770/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Devan FM (Hosur)",
+    "city": "Hosur",
+    "url": "http://dione.shoutca.st:8802/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Noor FM (Hosur)",
+    "city": "Hosur",
+    "url": "http://dione.shoutca.st:8822/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Hosur Thedal FM (Hosur)",
+    "city": "Hosur",
+    "url": "http://dione.shoutca.st:8575/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sai Asia (Puttaparthi)",
+    "city": "Puttaparthi",
+    "url": "http://stream.radiosai.org:8002/?aa=a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sai Bhajan (Puttaparthi)",
+    "city": "Puttaparthi",
+    "url": "http://stream.radiosai.org:8000/?a=b"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sai Discourse (Puttaparthi)",
+    "city": "Puttaparthi",
+    "url": "http://stream.radiosai.org:8008/?a=a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sai Global Harmony (Puttaparthi)",
+    "city": "Puttaparthi",
+    "url": "http://stream.radiosai.net:8006/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sai Telugu (Puttaparthi)",
+    "city": "Puttaparthi",
+    "url": "http://stream.radiosai.org:8020/?a=b"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Arulvakku (Tirunelveli)",
+    "city": "Tirunelveli",
+    "url": "https://stream.arulvakku.com/radio/8000/radio.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sanathana Vani (Chikkaballapur)",
+    "city": "Chikkaballapur",
+    "url": "http://eu6.fastcast4u.com:5010/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AIR - Amruthavarshini FM 100.1 Mhz (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://104.237.4.164:8000/autodj"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AIR - Rainbow FM 101.3 (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://104.237.4.164:8006/autodj"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AIR - Raagam 24x7 DTH (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://104.237.4.164:8009/autodj"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Almighty Radio (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://16153.live.streamtheworld.com/SAM04AAC280_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "FEBA Online (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "https://stream.radio.co/s383f50ab3/listen"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Kannada Christian Radio (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://37.187.90.121:3578/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Kannada Gospel (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://node-09.zeno.fm/d12sv7u685quv?rj-token=AAABbaBcU8PEHU51uiwO-PuC1w1xhSKdRM8esb4mEMbHOyPOW2QxiA&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Lifelight Radio (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://178.32.62.154:8548/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Madhur Tarang (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://philae.shoutca.st:8293/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "My Opus Radio - C Train (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://myopusradio.com:8000/ctrain"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "My Opus Radio - Cassette Player (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://myopusradio.com:8000/cassetteplayer"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "My Opus Radio - Platform 1 (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://myopusradio.com:8000/platform1"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "NammRadio - Gulf (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://node-25.zeno.fm/s9vrrmuwm8quv?rj-ttl=5&rj-token=AAABbaBcXiu8ek8MOy2DNw4evC8doMJuYXdiEYmKZeRWSlgxrbLzxQ"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "NammRadio - India (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://node-11.zeno.fm/w3w835a0kxquv?rj-ttl=5&rj-token=AAABbaBcXP6EYJuJS0GrcyR9m7_wq-_uC278y_-CwqJbW4UChjXaHw"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "NammRadio - USA (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://node-17.zeno.fm/bbs8prb015quv?rj-ttl=5&rj-token=AAABbaBcXQehnhCM9f348GZPLyI-tziiUniigRuG-izHEgHnIkB9-Q"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Dance (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://prclive1.listenon.in:8994/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Faith (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://prclive1.listenon.in:8830/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Kannada (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://prclive1.listenon.in:8870/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Premaloka (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://prclive1.listenon.in:9934/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Satyatmavani (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://173.192.207.51:7086/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalombeats Radio English (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://rd.shalombeatsradio.com:8190/stream.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalombeats Radio Hindi (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://rd.shalombeatsradio.com:7090/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalombeats Radio Instrumental (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://rd.shalombeatsradio.com:8010/stream.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalombeats Radio Kannada (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://rd.shalombeatsradio.com:8090/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalombeats Radio Tamil (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://rd.shalombeatsradio.com:6090/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalombeats Radio Telugu (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://rd.shalombeatsradio.com:9190/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "My Opus Radio (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://stream0.myopusradio.com:8000/myopusradio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Theophony FM (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://cp9.serverse.com:7261/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Theophony Tamil Isai (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://cp9.serverse.com:7558/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "V V Radio (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://37.187.79.56:2802/stream2"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AIR - Vividh Bharati FM 102.9 (Bengaluru)",
+    "city": "Bengaluru",
+    "url": "http://104.237.4.164:8003/autodj"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "JOY Kumari (Kanyakumari)",
+    "city": "Kanyakumari",
+    "url": "http://equinox.shoutca.st:9318/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Suno Sharda 90.8 FM (Greater Noida)",
+    "city": "Greater Noida",
+    "url": "http://streamasiacdn.atc-labs.com/shardaradio.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Aaron Radio (Bhopal)",
+    "city": "Bhopal",
+    "url": "http://37.59.32.115/proxy/aaronradio?mp=%2Fstream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Revive Radio English (Bhopal)",
+    "city": "Bhopal",
+    "url": "https://eu7.fastcast4u.com/proxy/reviveradioenglish?mp=%2F1"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Revive Radio Hindi (Bhopal)",
+    "city": "Bhopal",
+    "url": "http://37.59.32.115/proxy/revivehindi?mp=%2Fstream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Nagercoil Thedal FM (Nagercoil)",
+    "city": "Nagercoil",
+    "url": "http://dione.shoutca.st:8952/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Noida FM 107.4 (Noida)",
+    "city": "Noida",
+    "url": "http://180.151.226.202:8000/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Red FM 93.5 (Nanded)",
+    "city": "Nanded",
+    "url": "http://14013.live.streamtheworld.com/CKYRFM_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Barunet (Baru Sahib)",
+    "city": "Baru Sahib",
+    "url": "http://s6.voscast.com:9832/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Anbu FM (Rakkiyapalayam)",
+    "city": "Rakkiyapalayam",
+    "url": "http://node-06.zeno.fm/5csru2np4bruv?rj-token=AAABbaBcS0XatZXTxTYfP37KyQW_lSNnNxCBEx98K_sCK-Rdtg4FTw&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Big Smile Radio (Yamuna Nagar)",
+    "city": "Yamuna Nagar",
+    "url": "http://s3.radio.co/s6114b1ea4/listen"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Time India (Yamuna Nagar)",
+    "city": "Yamuna Nagar",
+    "url": "http://sanjharadio.jumpvideo.in:8001/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "PTA Radio (Delhi)",
+    "city": "Delhi",
+    "url": "http://37.59.32.115:6236/stream-mount"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Mirchi FM 98.3 (Delhi)",
+    "city": "Delhi",
+    "url": "http://peridot.streamguys.com:7150/Mirchi"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Punjabi Mehak (Delhi)",
+    "city": "Delhi",
+    "url": "http://node-14.zeno.fm/das7vyu8e3quv?rj-ttl=5&rj-token=AAABbaBcXBbLT4xJbolmNuz41TB-66HhiQh8nF6_EL07njb0nkRsag"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio VMA (Delhi)",
+    "city": "Delhi",
+    "url": "http://radio.vmak.in:8000/stream/1/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "All India Radio Kashmir FM 102.6 (New Delhi)",
+    "city": "New Delhi",
+    "url": "http://51.15.208.163:8081/radio/kashmiri_1/icecast.audio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Boxout FM (New Delhi)",
+    "city": "New Delhi",
+    "url": "http://boxoutfm.out.airtime.pro:8000/boxoutfm_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Brahman Radio (New Delhi)",
+    "city": "New Delhi",
+    "url": "http://brahman.riggrodigital.com:8082/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Geetham Tamil Radio (New Delhi)",
+    "city": "New Delhi",
+    "url": "http://www.geethamradio.com:8020/hifi.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Njan Malayali (New Delhi)",
+    "city": "New Delhi",
+    "url": "http://78.129.193.103:22469/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Delhi Malayalam (New Delhi)",
+    "city": "New Delhi",
+    "url": "http://46.105.124.113:8097/rdm"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Red FM 93.5 (New Delhi)",
+    "city": "New Delhi",
+    "url": "http://14013.live.streamtheworld.com/CKYRFM_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Big FM (Shimla)",
+    "city": "Shimla",
+    "url": "http://sc-bb.1.fm:8017/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Hamara Solan Radio (Solan)",
+    "city": "Solan",
+    "url": "http://188.166.176.244:9040/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Music 24x7 (Neyyattinkara)",
+    "city": "Neyyattinkara",
+    "url": "http://node-07.zeno.fm/g8cx7tggb3quv.aac?rj-token=AAABbaBcUlyaEHxnYTbl6TX3hLTxvHjEIdPWJ0x8CQcYUljlVrTjHA&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Pollachi FM (Pollachi)",
+    "city": "Pollachi",
+    "url": "http://104.200.16.182:8000/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Tamizham FM (Pollachi)",
+    "city": "Pollachi",
+    "url": "http://sc.cobrasoftwares.in:8000/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "90.4 Cotton City Akola FM (Akola)",
+    "city": "Akola",
+    "url": "http://streamasiacdn.atc-labs.com/cottoncityakola.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Gethu (Coimbatore)",
+    "city": "Coimbatore",
+    "url": "http://procyon.shoutca.st:8902/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Tamizham FM (Coimbatore)",
+    "city": "Coimbatore",
+    "url": "http://sc.cobrasoftwares.in:8000/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Wisdom Radio (Coimbatore)",
+    "city": "Coimbatore",
+    "url": "http://66.55.145.43:7600/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Air Malayalam (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://51.15.208.163:8081/radio/airmalayalam/icecast.audio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Ananthapuri FM 101.9 MHz (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://59.90.28.91:88/broadwavehigh.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Club FM (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://18003.live.streamtheworld.com/CLUBFMUAEAAC.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Luminous Radio English (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://192.111.140.6:8539/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Luminous Radio Hindi (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://192.111.140.6:8601/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Luminous Radio Live (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://192.111.140.6:8558/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Luminous Radio Tamil (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://192.111.140.6:8602/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Luminous Radio Urdu (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://192.111.140.6:9562/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Luminous Radio Malayalam (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://192.111.140.6:8546/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Njan Malayali Bhakthi (Thiruvananthapuram)",
+    "city": "Thiruvananthapuram",
+    "url": "http://91.121.222.81:8342/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Bheem Shakti (Dera Bassi)",
+    "city": "Dera Bassi",
+    "url": "http://bheemshakti.riggrodigital.com:8014/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Retro Bollywood (Kalaburagi)",
+    "city": "Kalaburagi",
+    "url": "http://64.71.79.181:5124/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Hand of Jesus - Christian Radio (Coonoor)",
+    "city": "Coonoor",
+    "url": "http://66.55.145.43:7880/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Malayalam English Christian Radio (Pathanamthitta)",
+    "city": "Pathanamthitta",
+    "url": "http://37.187.93.104:8586/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Punjabi (Chandigarh)",
+    "city": "Chandigarh",
+    "url": "http://prclive1.listenon.in:9302/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio HSL (Chandigarh)",
+    "city": "Chandigarh",
+    "url": "http://50.7.68.251:7064/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shahimsha Radio (Erattupetta)",
+    "city": "Erattupetta",
+    "url": "http://radio.knpinfotech.co.in:8000/stream/3/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Gramoday FM 90.4 (Gonder)",
+    "city": "Gonder",
+    "url": "http://c14.radioboss.fm/stream/60"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Chathannoor FM (Chathannoor)",
+    "city": "Chathannoor",
+    "url": "http://node-13.zeno.fm/h7xtz3e9reruv?rj-token=AAABbaBcVXUiLdZAWqHj4asAvEbn1w-ligubz3yXLtCIzYG7_VKEBA&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Kasoot (Gohana)",
+    "city": "Gohana",
+    "url": "http://radiokasoot.com:8000/listen"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Grace Radio (Vennikulam)",
+    "city": "Vennikulam",
+    "url": "http://37.59.32.115/proxy/graceradio?mp=%2F1"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sehion Radio (Palakkad)",
+    "city": "Palakkad",
+    "url": "http://199.195.194.140:8012/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AIR Misore (Mysuru)",
+    "city": "Mysuru",
+    "url": "http://103.35.197.94:8000/aruntest"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Gramoday (Assandh)",
+    "city": "Assandh",
+    "url": "http://c14.radioboss.fm/stream/60"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Benziger FM 107.8 (Kollam)",
+    "city": "Kollam",
+    "url": "http://158.69.202.192:9302/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Rafa Radio (Kollam)",
+    "city": "Kollam",
+    "url": "http://37.59.47.192:8596/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Khas Haryanvi (Rohtak)",
+    "city": "Rohtak",
+    "url": "http://khasharyanvi.com:8000/live"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Dhaakad (Rohtak)",
+    "city": "Rohtak",
+    "url": "http://radiodhaakad.com:8000/live"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Chitkara (Rajpura)",
+    "city": "Rajpura",
+    "url": "http://136.233.11.133:88/broadwave.mp3?src=1&rate=1&ref="
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "BAFA Radio (Thiruvalla)",
+    "city": "Thiruvalla",
+    "url": "http://198.245.60.88:8300/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bible Radio (Thiruvalla)",
+    "city": "Thiruvalla",
+    "url": "https://bibleradio.radioca.st/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Media Village 90.8 (Changanassery)",
+    "city": "Changanassery",
+    "url": "http://184.154.43.106:8145/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "ENTE Radio 91.2 (Karunagappally)",
+    "city": "Karunagappally",
+    "url": "http://stream1.corehub.org:8000/enteradio1"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Psalms Radio (Kottayam)",
+    "city": "Kottayam",
+    "url": "http://5.79.88.132:7084/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "HimVani (Hamirpur)",
+    "city": "Hamirpur",
+    "url": "http://51.15.208.163:8081/radio/northeastservice/icecast.audio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Onattukara (Kayamkulam)",
+    "city": "Kayamkulam",
+    "url": "http://perseus.shoutca.st:8175/stream.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bollywood Punjabi Radio (Patiala)",
+    "city": "Patiala",
+    "url": "http://node-27.zeno.fm/1k0y9f0cm0quv?rj-token=AAABbaBcVbN6ezxftOQ_lVa7tfz5UqeCOj_Gj_wruZsRzUheIPJDRw&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Jesus Alive Radio (Patiala)",
+    "city": "Patiala",
+    "url": "http://node-15.zeno.fm/e4nhg60y72quv?rj-ttl=5&rj-token=AAABbaBcVHz6UFI0oX7mxGdQWbaOlMLxCnA_dYrUwiot_Il0CJoU7g"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Global Radio FM 91.2 (Ambalapuzha)",
+    "city": "Ambalapuzha",
+    "url": "http://streamasiacdn.atc-labs.com/globalradio.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "105.8 Apple FM (Alappuzha)",
+    "city": "Alappuzha",
+    "url": "http://91.121.222.81:8306/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "KNP Infotech - Radio Under Testing 1 (Alappuzha)",
+    "city": "Alappuzha",
+    "url": "http://radio.knpinfotech.co.in:8000/stream/1/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Neythal (Alappuzha)",
+    "city": "Alappuzha",
+    "url": "http://91.121.82.33:64420/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Gunjan (Dharamshala)",
+    "city": "Dharamshala",
+    "url": "http://streamasiacdn.atc-labs.com/gunjanradio.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Green Radio (Ernakulam)",
+    "city": "Ernakulam",
+    "url": "http://37.59.32.115/proxy/greenradio?mp=%2Fstream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio SAACOON (Ernakulam)",
+    "city": "Ernakulam",
+    "url": "http://148.72.210.73:8000/saacoon.ogg"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Malayalam (Cochin)",
+    "city": "Cochin",
+    "url": "http://prclive1.listenon.in:9908/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalombeats Radio Malayalam (Cochin)",
+    "city": "Cochin",
+    "url": "http://rd.shalombeatsradio.com:8006/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Gosree Radio (Kochi)",
+    "city": "Kochi",
+    "url": "http://188.40.135.197:8404/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Graamam (Kochi)",
+    "city": "Kochi",
+    "url": "http://usa1.fastcast4u.com:5004/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Mango (Kochi)",
+    "city": "Kochi",
+    "url": "http://51.15.208.163:8081/radio/RadioMango_1/icecast.audio"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Theeram Radio (Kochi)",
+    "city": "Kochi",
+    "url": "http://titan.shoutca.st:8647/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Maharani (Nilambur)",
+    "city": "Nilambur",
+    "url": "http://audiocp.globaliway.co.in:7235/start/maharani"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "A R Radio (Thrissur)",
+    "city": "Thrissur",
+    "url": "http://162.244.80.106:10912/live"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "90.8 Hello Radio FM (Thrissur)",
+    "city": "Thrissur",
+    "url": "http://148.72.210.73:8000/helloradio.ogg"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Angelos (Thrissur)",
+    "city": "Thrissur",
+    "url": "http://s7.voscast.com:9562/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Tcrlive (Thrissur)",
+    "city": "Thrissur",
+    "url": "http://46.105.124.113:8032/live"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Club FM 104.8 (Pazhamalloor)",
+    "city": "Pazhamalloor",
+    "url": "http://19373.live.streamtheworld.com/CLUBFMUAEAAC.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "[CR] Mattoli 90.4 FM (Wayanad)",
+    "city": "Wayanad",
+    "url": "http://87.117.205.22:8066/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Pravasi Malayali Radio (Wayanad)",
+    "city": "Wayanad",
+    "url": "http://99.198.118.250:8044/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "AIR Manjeri FM (Malappuram)",
+    "city": "Malappuram",
+    "url": "http://185.193.112.155:18146/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Peace Radio (Malappuram)",
+    "city": "Malappuram",
+    "url": "http://stream.peaceradio.com:8000/high"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Kairali (Malappuram)",
+    "city": "Malappuram",
+    "url": "http://162.244.80.106:10994/live"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Tirur Live (Tirur)",
+    "city": "Tirur",
+    "url": "http://46.105.124.113:8036/radiotirur"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Swami (Solapur)",
+    "city": "Solapur",
+    "url": "http://node-06.zeno.fm/rzuke118e3quv?rj-ttl=5&rj-token=AAABbaBcXWOts_bcMvd8LFqLbXkAXZJSi-1REtDUxOu5VggHQFhcxA"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio solapuri (Solapur)",
+    "city": "Solapur",
+    "url": "http://node-07.zeno.fm/0t091ttp6ueuv?rj-token=AAABbaBcW5RwjjbtEF08GZXJasmHKtIVT27-8q1iFShxBoyLmJpJ4Q&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Swami Samarth (Solapur)",
+    "city": "Solapur",
+    "url": "http://node-21.zeno.fm/rzuke118e3quv?rj-ttl=5&rj-token=AAABbaBcVIhlyW1Gz8e91kZ1zRLAB-utfyAv99rspnPmFPos_sd0tg"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Doaba Radio (Talwara)",
+    "city": "Talwara",
+    "url": "http://s2.voscast.com:11808/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Desi World Radio (Ludhiana)",
+    "city": "Ludhiana",
+    "url": "http://node-25.zeno.fm/wap7pfnrtvduv?rj-token=AAABbaBcSNNWyYZFTDeCbDuovfEmTz5p_-uF8GE3Pkjiwtdv4fv4vw&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Virsa (Ludhiana)",
+    "city": "Ludhiana",
+    "url": "http://node-06.zeno.fm/6be9v08pnyduv?rj-token=AAABbaBcVutXZvgyPF40VGR09nS_w9CmYz-ki2ea8D1yb0dTyjfvag&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Red FM 93.5 (Bahua)",
+    "city": "Bahua",
+    "url": "https://18693.live.streamtheworld.com/CKYRFM_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Jaipur Radio (Jaipur)",
+    "city": "Jaipur",
+    "url": "http://streamasiacdn.atc-labs.com/jaipurradio.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Pinkcity Radio (Jaipur)",
+    "city": "Jaipur",
+    "url": "http://s32.myradiostream.com:16768/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Taj (Jaipur)",
+    "city": "Jaipur",
+    "url": "http://s1.voscast.com:9484/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Ishvani Radio (Ujjain)",
+    "city": "Ujjain",
+    "url": "http://ishvaniradioujjain.out.airtime.pro:8000/ishvaniradioujjain_a?_ga=2.20340220.557670527.1548134419-937120950.1544432390"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Kerala Malabar Islamic Radio (Kozhikode)",
+    "city": "Kozhikode",
+    "url": "http://s4.voscast.com:8068/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Shalom Radio (Kozhikode)",
+    "city": "Kozhikode",
+    "url": "https://stream.radio.co/s1383afdc9/low"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "SunniOnlineRadio (Kozhikode)",
+    "city": "Kozhikode",
+    "url": "http://s7.voscast.com:7812/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Maria India (Aroor)",
+    "city": "Aroor",
+    "url": "http://dreamsiteradiocp.com:8002/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Mantra (Gorakhpur)",
+    "city": "Gorakhpur",
+    "url": "http://streamlky.alsolnet.com:443/mantrafm"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Anardana (Pathankot)",
+    "city": "Pathankot",
+    "url": "http://anardana.riggrodigital.com:8055/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Punjab Rocks Radio (Jalandhar)",
+    "city": "Jalandhar",
+    "url": "http://radio.punjabrocks.com:9988/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Taal Radio (Jalandhar)",
+    "city": "Jalandhar",
+    "url": "http://radio.punjabrocks.com:9998/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Ephphatha Radio (Thalassery)",
+    "city": "Thalassery",
+    "url": "http://cassini.shoutca.st:8605/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Gaana Live Radio (Gurdaspur)",
+    "city": "Gurdaspur",
+    "url": "http://node-21.zeno.fm/szh14bya1feuv?rj-ttl=5&rj-token=AAABbaBcebTBfSGR58zfksqtTO9k0uN8uG5yopyiwHZivpQ0UtXFSw"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Jhunjhunu Radio (Jhunjhunu)",
+    "city": "Jhunjhunu",
+    "url": "http://streamasiacdn.atc-labs.com/jhunjhunuradio.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Club FM 93.4 (Kannur)",
+    "city": "Kannur",
+    "url": "http://18003.live.streamtheworld.com/CLUBFMUAEAAC.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "MGM Community Radio FM 90.8 (Aurangabad)",
+    "city": "Aurangabad",
+    "url": "http://streamasiacdn.atc-labs.com/mgmradio.aac"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "FM Ragam (Payyanur)",
+    "city": "Payyanur",
+    "url": "http://147.135.181.83:9400/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Punjab Today (Bathinda)",
+    "city": "Bathinda",
+    "url": "http://node-11.zeno.fm/t7kasa0y72quv?rj-ttl=5&rj-token=AAABbaBchs7kSP6TtqCLP0K3YTOuvNwng6wBgGQxF2nz1Fwy_F-j5g"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "NM Radio (Shirpur)",
+    "city": "Shirpur",
+    "url": "https://s2.radio.co/s59c5b9a53/listen"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Akhand Path Radio (Amritsar)",
+    "city": "Amritsar",
+    "url": "http://radio.punjabrocks.com:9968/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sikh Katha Radio (Amritsar)",
+    "city": "Amritsar",
+    "url": "http://radio.punjabrocks.com:9978/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sikh Kirtan Radio (Amritsar)",
+    "city": "Amritsar",
+    "url": "http://radio.punjabrocks.com:9958/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sri Harmandir Sahib (Amritsar)",
+    "city": "Amritsar",
+    "url": "http://sgpc.net:8000/;?1565617686922="
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sharda (Jammu)",
+    "city": "Jammu",
+    "url": "http://s8.voscast.com:7738/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "RADIO daijiworld (Mangaluru)",
+    "city": "Mangaluru",
+    "url": "http://18193.live.streamtheworld.com/SAM08AAC013_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sarang (Mangaluru)",
+    "city": "Mangaluru",
+    "url": "http://radiosarang.com:4048/Sarang"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Stuthi (Mangaluru)",
+    "city": "Mangaluru",
+    "url": "http://17483.live.streamtheworld.com/SP_R2570499_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Big FM 92.7 (Srinagar)",
+    "city": "Srinagar",
+    "url": "http://sc-bb.1.fm:8017/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Minhaj India (Miraj)",
+    "city": "Miraj",
+    "url": "http://s7.voscast.com:8642/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Miraj74 (Miraj)",
+    "city": "Miraj",
+    "url": "http://janus.shoutca.st:8112/stream2"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sharada Radio Station FM 90.8 (Baramati)",
+    "city": "Baramati",
+    "url": "http://158.69.4.171:8053/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Live Gurbani Radio (Malout)",
+    "city": "Malout",
+    "url": "http://node-07.zeno.fm/hsv61tk072quv?rj-ttl=5&rj-token=AAABbaBciQzrY-AxldvbqRbUuR6otaH5jYPKN5Rd5HtAJVCaOEdyyQ"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sandesh Radio (Belgaum)",
+    "city": "Belgaum",
+    "url": "http://sirius.shoutca.st:8608/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Desi World Radio (Burj Sidhwan)",
+    "city": "Burj Sidhwan",
+    "url": "http://node-25.zeno.fm/4mbfcn4mf24tv?rj-token=AAABbaBchCz7Z_upB4LmbVDSlNYIp71rItpllHlQquO7SgACRtLt8Q&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Vagad Radio 90.8 (Banswara)",
+    "city": "Banswara",
+    "url": "http://streamasiacdn.atc-labs.com/vaagdhara.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Awaj Blind Welfare Council (Dahod)",
+    "city": "Dahod",
+    "url": "http://streamasiacdn.atc-labs.com/radioawaj.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Maayboli (Pune)",
+    "city": "Pune",
+    "url": "http://node-09.zeno.fm/swh0m3py72quv?rj-ttl=5&rj-token=AAABbaBci7TNfnyHotmcKRtsrCDPfW909wvgPIidPtgo6d6mBHCoXw"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Pune (Pune)",
+    "city": "Pune",
+    "url": "http://janus.shoutca.st:8112/stream3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Rollanti Malayalam (Pune)",
+    "city": "Pune",
+    "url": "http://radio.rollanti.com:8000/stream/1/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "ShripadRadio (Pune)",
+    "city": "Pune",
+    "url": "http://janus.shoutca.st:8112/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Vidyavani FM 107.4 (Pune)",
+    "city": "Pune",
+    "url": "http://vidyavani.unipune.ac.in:8000/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Dnyaneshwari (Alandi)",
+    "city": "Alandi",
+    "url": "http://node-15.zeno.fm/qvssvt2r8druv?rj-token=AAABbaBcfY1a1UMjk6q5qEvtR74Tks-BnFxV0RNKH5M91JtM4yNGQQ&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sadhakashram Radio (Alandi)",
+    "city": "Alandi",
+    "url": "http://node-08.zeno.fm/80c86wkeb9quv?rj-token=AAABbaBcdya7Po6--wRWiXyk_DdEna7nwA5FgvVXkCLy6Mipqrihgw&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Goa (Panaji)",
+    "city": "Panaji",
+    "url": "http://sirius.shoutca.st:8431/mount"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Edutainment Radio (Nashik)",
+    "city": "Nashik",
+    "url": "http://node-14.zeno.fm/5hf2rqupe6quv?rj-token=AAABbaBcdu79_kAWa-RIONEAn-jPNlHtUxq7PrbORL9qNk-Ua--JKA&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Jay Bhim (Nashik)",
+    "city": "Nashik",
+    "url": "http://85.93.91.10:8144/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sanskrit Bharati (Nashik)",
+    "city": "Nashik",
+    "url": "http://node-16.zeno.fm/m08mkwsyw8quv?rj-token=AAABbaBcfjeikIE6Jm_hSfKgu40WJEJSpfKm8dAWcDl0hVRvszj93Q&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sense (Nashik)",
+    "city": "Nashik",
+    "url": "https://eu10.fastcast4u.com:3925/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Vidnyan Katta (Nashik)",
+    "city": "Nashik",
+    "url": "http://node-13.zeno.fm/heerm4xyw8quv?rj-token=AAABbaBcdxxzkXLXs5fSffDbhCBWYW9cVCHh_p_QWD8yszahTYdpMg&rj-ttl=5"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Sayaji FM (Vadodara)",
+    "city": "Vadodara",
+    "url": "http://comet.shoutca.st:8437/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "92.7 Big FM 92.7 (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://sc-bb.1.fm:8017/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Devi Maa (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://ibadat.out.airtime.pro:8000/ibadat_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Ganesha (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Gurbani (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://gurbani.out.airtime.pro:8000/gurbani_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Guruvar (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Krishna (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Meditation (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://djbeat.out.airtime.pro:8000/djbeat_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Shiva (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://hot.out.airtime.pro:8000/hot_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B! Radio Shri Ram (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://dard.out.airtime.pro:8000/dard_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Hindi Christian Radio (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://37.187.90.121:3508/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "2B Radio Hanuman (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Bhojpuri (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://prclive1.listenon.in:9290/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Electronica (Mumbai)",
+    "city": "Mumbai",
+    "url": "https://prclive4.listenon.in/Electronica"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Freedom (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://prclive1.listenon.in:9978/?a=b"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Ghazals (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://prclive1.listenon.in:8860/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Hindi (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://prclive1.listenon.in:9960/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Hiphop (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://prclive1.listenon.in:9292/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Ishq (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://prclive1.listenon.in:8808/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Metal (Mumbai)",
+    "city": "Mumbai",
+    "url": "https://prclive4.listenon.in/Metal"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Punjabi (Mumbai)",
+    "city": "Mumbai",
+    "url": "https://prclive4.listenon.in/Punjabi"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City Smaran (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://prclive1.listenon.in:9950/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Namkin (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://node-17.zeno.fm/gzvb3h65puquv?rj-ttl=5&rj-token=AAABbaBchqunRF0TBpRibSbZMsrwUixB5lXmxS5XJ7YQ4B2o91wreA"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Schizoid (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://94.130.113.214:8000/chill"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sindhi - CLASSIC (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://139.59.119.157:8221/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Sindhi - PRIME (Mumbai)",
+    "city": "Mumbai",
+    "url": "http://139.59.119.157:8211/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Red FM 93.5 (Mumbai)",
+    "city": "Mumbai",
+    "url": "https://17853.live.streamtheworld.com/CKYRFM_SC"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World (Andheri)",
+    "city": "Andheri",
+    "url": "https://radio2bindia.out.airtime.pro/radio2bindia_a?_ga=2.134950833.1361262705.1561470894-1518270934.1559991538"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Devi Maa (Andheri)",
+    "city": "Andheri",
+    "url": "http://ibadat.out.airtime.pro:8000/ibadat_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Ganesh (Andheri)",
+    "city": "Andheri",
+    "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Gurubani (Andheri)",
+    "city": "Andheri",
+    "url": "http://gurbani.out.airtime.pro:8000/gurbani_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Guruvar (Andheri)",
+    "city": "Andheri",
+    "url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Hanuman (Andheri)",
+    "city": "Andheri",
+    "url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Krishna (Andheri)",
+    "city": "Andheri",
+    "url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Meditation (Andheri)",
+    "city": "Andheri",
+    "url": "http://djbeat.out.airtime.pro:8000/djbeat_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Shiva (Andheri)",
+    "city": "Andheri",
+    "url": "http://hot.out.airtime.pro:8000/hot_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhakti World - Shri Ram (Andheri)",
+    "city": "Andheri",
+    "url": "http://dard.out.airtime.pro:8000/dard_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Hits Of Bollywood (Surat)",
+    "city": "Surat",
+    "url": "http://node-17.zeno.fm/60ef4p33vxquv?rj-ttl=5&rj-token=AAABbaBciIZFLktgkTDYliL6iH2ikt-kfqxACbeZ9JFGxxEF8CVyLw"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "New Hits Of Bollywood (Surat)",
+    "city": "Surat",
+    "url": "http://node-17.zeno.fm/rqqps6cbe3quv?rj-ttl=5&rj-token=AAABbaBciKb5LchOOxqmNXHg9v0wc1r1AtWHMc0MAMXyy7kTaaJhoQ"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bapdada Internet Radio (Abu Road)",
+    "city": "Abu Road",
+    "url": "http://comet.shoutca.st:8744/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio Madhuban 90. 4 FM (Abu Road)",
+    "city": "Abu Road",
+    "url": "http://icecast.bkwsu.eu/radiomadhuban-vbr.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio City FM 91.1 (Ahmedabad)",
+    "city": "Ahmedabad",
+    "url": "http://prclive1.listenon.in:9960/"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Rangilo Gujarati (Ahmedabad)",
+    "city": "Ahmedabad",
+    "url": "http://s9.voscast.com:7402/;"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Swaminarayan Kirtan Bhakti (Ahmedabad)",
+    "city": "Ahmedabad",
+    "url": "http://uk.live.swaminarayan.in:1000/kirtan.mp3"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Swaminarayan Kundaldham Radio (Kundal)",
+    "city": "Kundal",
+    "url": "http://swaminarayanbhagwan.out.airtime.pro:8000/swaminarayanbhagwan_a"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Radio HSL (Rajkot)",
+    "city": "Rajkot",
+    "url": "http://50.7.68.251:7064/stream"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Airbhuj (Bhuj)",
+    "city": "Bhuj",
+    "url": "http://117.254.199.9:8081/source"
+  },
+  {
+    "radio": "TRUE",
+    "tvg-logo": "",
+    "group-title": "india (IN)",
+    "name": "Bhuj Mandir Radio (Bhuj)",
+    "city": "Bhuj",
+    "url": "http://radio.bhujmandir.org:8000/stream/9/"
+  }
+]
